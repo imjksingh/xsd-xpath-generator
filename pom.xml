@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>jk.common.util</groupId>
     <artifactId>xsd-xpath-generator</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <scm>
         <developerConnection>scm:git:https://github.com/imjksingh/xsd-xpath-generator.git</developerConnection>
-      <tag>xsd-xpath-generator-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
     <build>
         <plugins>
